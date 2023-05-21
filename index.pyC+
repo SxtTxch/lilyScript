@@ -1,2 +1,2 @@
-write "textasdasdasdsadsa, asdsadasdasd"
-write "hey, there"
+loop 0 100 1
+write "15"
