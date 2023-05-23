@@ -45,7 +45,6 @@ class Lexer():
     def __init__(self) -> None:
         self.currentline = None
         self.statements = Statements()
-        self.loops = Loops()
     def tokenize(text : str):
         arr = text.split('\n')
         alltokens = []
