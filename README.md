@@ -18,7 +18,7 @@ This repository contains a basic package with working lilyScript.
 ## How do I write code in lilyScript?
 lilyScript is a language that offers module oriented programming, infact the installation process, just downloads a lilyScript module.  
 1. lilyScript looks for index.lilyS, please name your script that so as to make lily faster!  
-2. Get familiar with lilies documentation: STILL IN PROGRESS:  
+2. Get familiar with lilies documentation: STILL IN PROGRESS: [Click here!](https://d9026e21-8e42-48b0-a939-f808deb07da9.mynotice.io/)
 3. If you aren't new to programming just check out the interpreter!  
 ## Requirements
 + Python  

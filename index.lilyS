@@ -1,1 +1,2 @@
-write "Hello, World!"
+let b []
+let a 10
